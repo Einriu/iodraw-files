@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JlLd9wI-nfq6gcc2ZnS3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="JlLd9wI-nfq6gcc2ZnS3-1" target="JlLd9wI-nfq6gcc2ZnS3-2">
+        <mxCell id="JlLd9wI-nfq6gcc2ZnS3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlLd9wI-nfq6gcc2ZnS3-1" target="JlLd9wI-nfq6gcc2ZnS3-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JlLd9wI-nfq6gcc2ZnS3-1" value="毫米波雷达液位计" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="JlLd9wI-nfq6gcc2ZnS3-1" value="毫米波雷达液位计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JlLd9wI-nfq6gcc2ZnS3-2" value="&lt;span style=&quot;font-size: 11pt;&quot;&gt;双向多普勒流量计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="JlLd9wI-nfq6gcc2ZnS3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
