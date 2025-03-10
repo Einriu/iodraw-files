@@ -31,9 +31,6 @@
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-7" value="多模态传感器集群" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JlLd9wI-nfq6gcc2ZnS3-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
