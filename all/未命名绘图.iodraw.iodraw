@@ -46,8 +46,8 @@
         <mxCell id="JM1jnfxNInpvIJjCeXW4-17" value="边界条件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="430" y="330" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JM1jnfxNInpvIJjCeXW4-23" value="内涝耦合模型训练" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="650" y="230" width="140" height="60" as="geometry" />
+        <mxCell id="JM1jnfxNInpvIJjCeXW4-23" value="模型输出内涝积水信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
