@@ -41,6 +41,9 @@
         <mxCell id="0wUV4nR0vtqZ-XhxGTuT-7" value="AI网关滤波压缩" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0wUV4nR0vtqZ-XhxGTuT-16" value="北斗短报文通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
