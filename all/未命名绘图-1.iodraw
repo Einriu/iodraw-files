@@ -10,8 +10,8 @@
         <mxCell id="0wUV4nR0vtqZ-XhxGTuT-21" value="人流量时空关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0wUV4nR0vtqZ-XhxGTuT-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="0wUV4nR0vtqZ-XhxGTuT-22" value="区域重要程度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
