@@ -34,8 +34,8 @@
         <mxCell id="0wUV4nR0vtqZ-XhxGTuT-32" value="算法优化自动调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0wUV4nR0vtqZ-XhxGTuT-34" value="可视化展示与人机交互" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="0wUV4nR0vtqZ-XhxGTuT-34" value="可视化与人机交互" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="260" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
