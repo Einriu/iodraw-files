@@ -11,7 +11,7 @@
           <mxGeometry x="250" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-4" value="激光雨滴谱仪" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="448" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JlLd9wI-nfq6gcc2ZnS3-6" target="JlLd9wI-nfq6gcc2ZnS3-7">
           <mxGeometry relative="1" as="geometry" />
@@ -62,16 +62,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-24" value="自动校准机制" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="985" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="983" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-27" value="LSTM时序分析" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="985" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="983" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-29" value="临近监测点比对" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="812" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="804" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-32" value="数字孪生自动校准" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1153" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
