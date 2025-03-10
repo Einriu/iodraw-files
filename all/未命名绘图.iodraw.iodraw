@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JM1jnfxNInpvIJjCeXW4-2" value="降水数据层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JM1jnfxNInpvIJjCeXW4-3" value="地形与基础设施数据层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="350" y="150" width="130" height="60" as="geometry" />
+          <mxGeometry x="350" y="150" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JM1jnfxNInpvIJjCeXW4-5" value="排水管网数据层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="560" y="150" width="130" height="60" as="geometry" />
