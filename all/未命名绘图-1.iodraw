@@ -28,8 +28,14 @@
         <mxCell id="0wUV4nR0vtqZ-XhxGTuT-23" value="分配权重优先排水" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0wUV4nR0vtqZ-XhxGTuT-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0wUV4nR0vtqZ-XhxGTuT-32" target="0wUV4nR0vtqZ-XhxGTuT-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0wUV4nR0vtqZ-XhxGTuT-32" value="算法优化自动调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0wUV4nR0vtqZ-XhxGTuT-34" value="可视化展示与人机交互" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
