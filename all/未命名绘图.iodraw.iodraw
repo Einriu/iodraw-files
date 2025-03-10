@@ -34,8 +34,8 @@
         <mxCell id="JM1jnfxNInpvIJjCeXW4-12" value="内涝耦合模型训练" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="430" y="230" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JM1jnfxNInpvIJjCeXW4-14" value="管网一维模型和&lt;div&gt;地表二维模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="430" y="90" width="140" height="60" as="geometry" />
+        <mxCell id="JM1jnfxNInpvIJjCeXW4-14" value="管网一维模型&lt;div&gt;地表二维模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
