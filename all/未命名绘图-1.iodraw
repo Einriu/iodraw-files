@@ -22,8 +22,9 @@
         <mxCell id="0wUV4nR0vtqZ-XhxGTuT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0wUV4nR0vtqZ-XhxGTuT-4" target="0wUV4nR0vtqZ-XhxGTuT-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0wUV4nR0vtqZ-XhxGTuT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0wUV4nR0vtqZ-XhxGTuT-4" target="0wUV4nR0vtqZ-XhxGTuT-9">
+        <mxCell id="0wUV4nR0vtqZ-XhxGTuT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0wUV4nR0vtqZ-XhxGTuT-4">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="459.9999999999999" as="targetPoint" />
             <Array as="points">
               <mxPoint x="330" y="460" />
             </Array>
@@ -39,9 +40,6 @@
         </mxCell>
         <mxCell id="0wUV4nR0vtqZ-XhxGTuT-7" value="AI网关滤波压缩" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0wUV4nR0vtqZ-XhxGTuT-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
