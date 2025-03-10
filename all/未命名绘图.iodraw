@@ -58,11 +58,11 @@
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JlLd9wI-nfq6gcc2ZnS3-24" target="JlLd9wI-nfq6gcc2ZnS3-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JlLd9wI-nfq6gcc2ZnS3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JlLd9wI-nfq6gcc2ZnS3-24" target="JlLd9wI-nfq6gcc2ZnS3-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-24" value="自动校准机制" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JlLd9wI-nfq6gcc2ZnS3-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlLd9wI-nfq6gcc2ZnS3-27" target="JlLd9wI-nfq6gcc2ZnS3-32">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-27" value="LSTM时序分析" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1000" y="390" width="120" height="60" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="827" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-32" value="数字孪生自动校准" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1181" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
