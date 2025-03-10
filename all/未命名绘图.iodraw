@@ -4,20 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JlLd9wI-nfq6gcc2ZnS3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlLd9wI-nfq6gcc2ZnS3-1" target="JlLd9wI-nfq6gcc2ZnS3-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-1" value="毫米波雷达液位计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JlLd9wI-nfq6gcc2ZnS3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JlLd9wI-nfq6gcc2ZnS3-2" target="JlLd9wI-nfq6gcc2ZnS3-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="50" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-2" value="双向多普勒流量计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JlLd9wI-nfq6gcc2ZnS3-4" value="激光雨滴谱仪" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JlLd9wI-nfq6gcc2ZnS3-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
